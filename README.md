@@ -10,7 +10,7 @@ cd analog-clock
 ```
 
 ## Usage
-You can customize the appearance of the clock by editing the CSS code in the style.css file. For example, you can change the colors, size, and position of the clock and its hands.
+You can customize the appearance of the clock by editing the CSS code in the ```style.css``` file. For example, you can change the colors, size, and position of the clock and its hands.
 
 ```bash
 /* Example CSS code */
@@ -29,7 +29,7 @@ You can customize the appearance of the clock by editing the CSS code in the sty
   background: #18191a;
 }
 ```
-You can also modify the JavaScript code in the script.js file to add new features or change the clock behavior.
+You can also modify the JavaScript code in the ```script.js``` file to add new features or change the clock behavior.
 
 ```
 /* Example JavaScript code */
@@ -42,4 +42,4 @@ function updateClock() {
 ```
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the [MIT License](https://opensource.org/license/mit/).
